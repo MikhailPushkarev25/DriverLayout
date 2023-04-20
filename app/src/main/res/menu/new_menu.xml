@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="@string/category_one">
+        <menu>
+            <item android:title="@string/item_one"
+                  android:id="@+id/item1"
+                  android:icon="@drawable/baseline_blind_24"/>
+            <item android:title="@string/item_two"
+                android:id="@+id/item2"
+                android:icon="@drawable/baseline_border_color_24"/>
+            <item android:title="@string/item_three"
+                android:id="@+id/item3"
+                android:icon="@drawable/baseline_brightness_3_24"/>
+            <item android:title="@string/item_four"
+                android:id="@+id/item4"
+                android:icon="@drawable/baseline_cabin_24"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/category_two">
+        <menu>
+            <item android:title="@string/item_five"
+                android:id="@+id/item5"
+                android:icon="@drawable/baseline_beach_access_24"/>
+            <item android:title="@string/item_six"
+                android:id="@+id/item6"
+                android:icon="@drawable/baseline_back_hand_24"/>
+            <item android:title="@string/item_seven"
+                android:id="@+id/item7"
+                android:icon="@drawable/baseline_audio_file_24"/>
+            <item android:title="@string/item_eth"
+                android:id="@+id/item8"
+                android:icon="@drawable/baseline_audiotrack_24"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DriverLayout</string>
+    <string name="category_one">Category 1</string>
+    <string name="item_one">Item 1</string>
+    <string name="item_two">Item 2</string>
+    <string name="item_three">Item 3</string>
+    <string name="item_four">Item 4</string>
+    <string name="category_two">Category 2</string>
+    <string name="item_five">item 5</string>
+    <string name="item_six">item 6</string>
+    <string name="item_seven">item 7</string>
+    <string name="item_eth">item 9</string>
+</resources>
